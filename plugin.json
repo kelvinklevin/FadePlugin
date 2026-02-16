@@ -1,0 +1,22 @@
+{
+  "name": "FadePlugin",
+  "author": "Fadeovich",
+  "version": "2.4.45",
+  "minVersion": "1.131.0",
+  "supportedVersion": "1.131.0",
+  "basePackage": "eu.darkbot.fadeplugin",
+  "features": [
+    "eu.darkbot.fadeplugin.behaviors.SavedConfigRestorer.SavedConfigRestorer",
+    "eu.darkbot.fadeplugin.behaviors.BotsSynchronizer.BotSyncManager",
+    "eu.darkbot.fadeplugin.behaviors.WindowCloser.WindowCloser",
+    "eu.darkbot.fadeplugin.behaviors.WindowLayoutSaver.WindowLayoutSaver",
+    "eu.darkbot.fadeplugin.behaviors.RefreshTriggerController.RefreshTriggerController",
+    "eu.darkbot.fadeplugin.behaviors.PluginConfigManager.PluginConfigManager",
+    "eu.darkbot.fadeplugin.behaviors.FormationManager.FormationManager",
+    "eu.darkbot.fadeplugin.behaviors.AmmoManager.AmmoManager",
+    "eu.darkbot.fadeplugin.behaviors.AttackBooster.AttackBooster",
+    "eu.darkbot.fadeplugin.behaviors.GroupHealCoordinator.GroupHealCoordinator"
+  ],
+  "download": "https://raw.githubusercontent.com/kelvinklevin/FadePlugin/main/FadePlugin.jar",
+  "update": "https://raw.githubusercontent.com/kelvinklevin/FadePlugin/main/plugin.json"
+}
